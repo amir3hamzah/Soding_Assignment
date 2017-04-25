@@ -1,7 +1,10 @@
 var products = [
-  {id: 1, name: 'Angular', description: 'Superheroic JavaScript MVW Framework.', price: 100},
-  {id: 2, name: 'Ember', description: 'A framework for creating ambitious web applications.', price: 100},
-  {id: 3, name: 'React', description: 'A JavaScript Library for building user interfaces.', price: 100}
+  {id: 1, name: 'Angular', description: 'Superheroic JavaScript MVW Framework.'},
+  {id: 2, name: 'Ember', description: 'A framework for creating ambitious web applications.'},
+  {id: 3, name: 'React', description: 'A JavaScript Library for building user interfaces.'},
+  {id: 4, name: 'Vue', description: 'CRUD Javascript Framework.'},
+  {id: 5, name: 'Autodesk Maya', description: 'Software 3D Modeller, Rigging, Texturing, Animation and 3D Rendering'},
+  
 ];
 
 function findProduct (productId) {
